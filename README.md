@@ -6,12 +6,16 @@ A simple demo repository to show basic Git wokflow
 Hi this is a brief about a project giving a little info about project.
 
 ## Purpose
-
+Adding the purpose section . I will not going to commit this will only add this.
 
 ##Deployment
 Adding a brief one liner for deployment section
 just to test git comparisons
 
+
+
+## Adding a section for Working directory
+I will keep it just in working directory.
 
 
 ## Conclusion
