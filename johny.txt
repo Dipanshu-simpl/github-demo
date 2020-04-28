@@ -1,1 +1,4 @@
 Hello  I am just creating this to see the effect of branching and merging.
+
+
+Ok , So now adding some more text to see the difference disabling fast-forwarding.
