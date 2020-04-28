@@ -1,0 +1,17 @@
+Hello  I am just creating this to see the effect of branching and merging.
+
+
+Ok , So now adding some more text to see the difference disabling fast-forwarding.
+
+
+version.3
+
+Adding few more lines so that it can create a  difference between thi and 
+last saved version.
+<<<<<<< HEAD
+Ok how are u bro
+i am good thank u!!
+=======
+Hello World
+Ok Bye
+>>>>>>> realwork
