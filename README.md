@@ -24,3 +24,6 @@ Adding a bit of conclusion section.
 
 YUP!!!! Finally adding one more section Thank u!!!!!!!!!!!!!
 
+
+
+Adding few lined for a glance of Rebasing in git.
