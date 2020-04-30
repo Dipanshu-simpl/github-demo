@@ -18,3 +18,7 @@ Ok Bye
 
 
 Hello this text is to see te changes for rebase example.
+
+
+Let 's see now an example of Stashing.
+Still adding text to see stashing.
