@@ -13,6 +13,9 @@ Adding a brief one liner for deployment section
 just to test git comparisons
 
 
+## Stashing
+ok Now we will see how stashing works in git.
+
 
 ## Adding a section for Working directory
 I will keep it just in working directory.
