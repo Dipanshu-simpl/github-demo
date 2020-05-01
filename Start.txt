@@ -2,3 +2,8 @@ Hello World
 
 
 ## Adding a new section to see comparisons.
+
+
+Stashing for multiples files examples.
+
+Stashing into a branch
