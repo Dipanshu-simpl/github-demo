@@ -24,3 +24,6 @@ Let 's see now an example of Stashing.
 Still adding text to see stashing.
 
 ## Seeing how stash applies on untracked files.
+
+
+Ok Freinds
